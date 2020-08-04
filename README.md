@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```swift
+let username = lucas lee
+let email = llzqingdao2012@gmail.com
+let job = iOS Developer
+```
