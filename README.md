@@ -11,8 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```swift
-let username = lucas lee
-let email = llzqingdao2012@gmail.com
-let job = iOS Developer
-```
+An inactive iOS developer who is working at the front end will also have a little help-side technology.
